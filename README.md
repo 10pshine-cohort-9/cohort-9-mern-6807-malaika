@@ -520,6 +520,10 @@ npm run test:mocha
 ```
   <img src="./docs/images/backendresult.jpg" alt="MindPlanAI Test Result" width="100%">
 
+## Sonar Cube
+  <img src="./test report.png" alt="MindPlanAI Test Result" width="100%">
+
+
 ## ESLint
 
 ```bash
